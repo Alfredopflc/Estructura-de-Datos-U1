@@ -1,0 +1,6 @@
+c:\users\alfredo\documents\visual studio 2013\Projects\E03.Venegas\PE.Venegas\bin\Debug\PE.Venegas.exe.config
+c:\users\alfredo\documents\visual studio 2013\Projects\E03.Venegas\PE.Venegas\bin\Debug\PE.Venegas.exe
+c:\users\alfredo\documents\visual studio 2013\Projects\E03.Venegas\PE.Venegas\bin\Debug\PE.Venegas.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\E03.Venegas\PE.Venegas\obj\Debug\PE.Venegas.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2013\Projects\E03.Venegas\PE.Venegas\obj\Debug\PE.Venegas.exe
+c:\users\alfredo\documents\visual studio 2013\Projects\E03.Venegas\PE.Venegas\obj\Debug\PE.Venegas.pdb
