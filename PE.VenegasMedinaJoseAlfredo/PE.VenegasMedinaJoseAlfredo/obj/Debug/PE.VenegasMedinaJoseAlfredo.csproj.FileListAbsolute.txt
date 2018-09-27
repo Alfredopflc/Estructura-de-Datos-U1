@@ -1,0 +1,6 @@
+c:\users\alfredo\documents\visual studio 2013\Projects\PE.VenegasMedinaJoseAlfredo\PE.VenegasMedinaJoseAlfredo\bin\Debug\PE.VenegasMedinaJoseAlfredo.exe.config
+c:\users\alfredo\documents\visual studio 2013\Projects\PE.VenegasMedinaJoseAlfredo\PE.VenegasMedinaJoseAlfredo\bin\Debug\PE.VenegasMedinaJoseAlfredo.exe
+c:\users\alfredo\documents\visual studio 2013\Projects\PE.VenegasMedinaJoseAlfredo\PE.VenegasMedinaJoseAlfredo\bin\Debug\PE.VenegasMedinaJoseAlfredo.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\PE.VenegasMedinaJoseAlfredo\PE.VenegasMedinaJoseAlfredo\obj\Debug\PE.VenegasMedinaJoseAlfredo.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2013\Projects\PE.VenegasMedinaJoseAlfredo\PE.VenegasMedinaJoseAlfredo\obj\Debug\PE.VenegasMedinaJoseAlfredo.exe
+c:\users\alfredo\documents\visual studio 2013\Projects\PE.VenegasMedinaJoseAlfredo\PE.VenegasMedinaJoseAlfredo\obj\Debug\PE.VenegasMedinaJoseAlfredo.pdb
